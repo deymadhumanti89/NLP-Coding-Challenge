@@ -1,2 +1,2 @@
 # NLP-Coding-Challenge
-It concists of Pandas,Numpy ML and NLTK codes for Medical Notes NLP Project
+It consists of Pandas,Numpy ML and NLTK codes for Medical Notes Project on NLP.
